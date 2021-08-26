@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: lightslategray;
+}
+
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myNavbar{
+    background-color: #333;
+    font-size: 1825;
+    font-family: 'Noto Sans JP', sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+
+img{
+    width: 500px;
+    height: 350px;
+    border-radius:50px;
+}
+
+#topic{
+    font-family:system-ui; 
+    font-size: larger;
+}
+
+#topic2{
+    font-size: 25px;
+    font-family:cursive;
+}
+
+label{
+        font-weight: bold;
+        font-size: 18px;
+}
+
+#button{
+    background-color: #333;
+    border: solid black 5px;
+    border-radius: 20px;
+    color: white;
+    width: 30%;
+    font-weight: bold;
+    width: 30%;
+}
+
+.footer{
+    width: 100%;
+    line-height: 3;
+    background-color: #333;
+    bottom:0;
+    position: fixed;
+    text-align: center;
+}
